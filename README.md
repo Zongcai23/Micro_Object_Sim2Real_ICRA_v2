@@ -1,7 +1,7 @@
 # Physics-Informed Machine Learning for Efficient Sim-to-Real Data Augmentation in Micro-Object Pose Estimation
 
 <p align="center">
-  <a href="paper/ICRA2026_Micro_Object_Sim2Real.pdf"><img src="https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge"></a>
+  <a href="paper/ICRA_Camera_Ready_Paper.pdf"><img src="https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge"></a>
   <a href="https://icra2026-sim2real.pages.dev/"><img src="https://img.shields.io/badge/Project-Website-blue?style=for-the-badge"></a>
   <a href="https://drive.google.com/file/d/15e_fGXoFKoTbZ8MBuWi562OZnGm-TVn2/view?usp=sharing"><img src="https://img.shields.io/badge/Video-Long%20Video-purple?style=for-the-badge"></a>
 </p>
