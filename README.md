@@ -251,10 +251,10 @@ Micro_Object_Sim2Real-main/
 If you find this repository useful, please cite:
 
 ```bibtex
-@inproceedings{tan2026physicsinformed,
+@article{tan2025physics,
   title={Physics-Informed Machine Learning for Efficient Sim-to-Real Data Augmentation in Micro-Object Pose Estimation},
   author={Tan, Zongcai and Wei, Lan and Zhang, Dandan},
-  booktitle={IEEE International Conference on Robotics and Automation (ICRA)},
-  year={2026}
+  journal={arXiv preprint arXiv:2511.16494},
+  year={2025}
 }
 ```
