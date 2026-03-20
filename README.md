@@ -42,7 +42,7 @@ In code, the logic is:
 The current public notebook therefore covers the rendering backbone that matters for the sim-to-real pipeline: microscope-related transfer modelling, depth-aware propagation, and NA-limited image formation.
 
 <p align="center">
-  <img src="assets/physicsMethod.png" width="95%">
+  <img src="assets/PhysicsMethod.png" width="95%">
 </p>
 
 A few variable names that are useful when reading the notebook:
