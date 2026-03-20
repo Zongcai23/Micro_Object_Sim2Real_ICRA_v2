@@ -87,7 +87,7 @@ The most important code blocks are:
 This stage is what makes the later GAN training meaningful: the model is trained on *paired* rendered / experimental images instead of unrelated image pairs.
 
 <p align="center">
-  <img src="assets/adaptation_demo.gif" width="92%">
+  <img src="assets/videoforGIT_converted.gif" width="92%">
 </p>
 
 ---
