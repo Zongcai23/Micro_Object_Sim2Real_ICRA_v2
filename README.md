@@ -12,7 +12,7 @@
 This repository contains our ICRA 2026 pipeline for **physics-informed sim-to-real microscopy image generation** and **micro-object pose estimation**. We start from CAD images and depth cues, render microscopy-style images with a wave-optics-inspired simulation engine, align the rendered and experimental image sequences, refine the rendered images with PixelGAN, and finally use the generated data for downstream **pitch / roll pose estimation**.
 
 <p align="center">
-  <img src="assets/method_overview.png" width="92%">
+  <img src="assets/FullPipeline.png" width="92%">
 </p>
 
 At a glance, the codebase is organised around four connected stages:
@@ -42,7 +42,7 @@ In code, the logic is:
 The current public notebook therefore covers the rendering backbone that matters for the sim-to-real pipeline: microscope-related transfer modelling, depth-aware propagation, and NA-limited image formation.
 
 <p align="center">
-  <img src="assets/physics_pipeline.png" width="95%">
+  <img src="assets/physicsMethod.png" width="95%">
 </p>
 
 A few variable names that are useful when reading the notebook:
